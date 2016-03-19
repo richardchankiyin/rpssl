@@ -1,5 +1,7 @@
 -- rpssl stands for Rock Paper Scissors Spock Lizard Game 
 
+Game Detail: http://www.samkass.com/theories/RPSSL.html
+
 1. Java 1.8 required
 2. Maven build
 3. Running: mvn exec:java -Dexec.mainClass="com.richard.game.rpssl.ConsoleGameApp"
